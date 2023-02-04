@@ -7,6 +7,7 @@ public class Seconds
    {
       final int SECONDS_PER_HOUR = 3600;
       final int SECONDS_PER_MINUTE = 60;
+      
       int hours, minutes, seconds, totalSeconds;
             
       Scanner SC=new Scanner(System.in);
