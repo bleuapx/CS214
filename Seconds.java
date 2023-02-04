@@ -23,6 +23,7 @@ public class Seconds
       
       totalSeconds = hours * SECONDS_PER_HOUR + minutes * SECONDS_PER_MINUTE + seconds;
 
+      System.out.println();
       System.out.println("Total Seconds: " + totalSeconds);
       
       }
